@@ -131,3 +131,4 @@ References
 .. _`Sound of text`: https://www.sebuahutas.com/sound-of-text/
 .. _`Aksara Jawa`: https://www.sebuahutas.com/aksara-jawa/
 .. _`Aksara Sunda`: https://www.sebuahutas.com/aksara-sunda/
+.. _`Aksara Gayo`: https://lintasgayo.eu.org/
